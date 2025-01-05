@@ -8,4 +8,4 @@ Run the setup script with the command: sh setup.sh
 
 Start the web application with the command: streamlit run app.py
 
-Dependencies listed in requirements.txt
+Dependencies listed in requirements.txt 
