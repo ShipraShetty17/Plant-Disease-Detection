@@ -5,6 +5,7 @@ This repository contains a Python-based project for detecting diseases in plant 
 It includes a Streamlit-based web application for easy interaction and visualization.
 
 Run the setup script with the command: sh setup.sh
+
 Start the web application with the command: streamlit run app.py
 
 Dependencies listed in requirements.txt
